@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # Ignore Jupyter notebooks checkpoints
 .ipynb_checkpoints
 
 
+=======
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+
+>>>>>>> parent of 5c6cbbd... ignore test
